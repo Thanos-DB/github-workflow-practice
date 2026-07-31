@@ -13,3 +13,8 @@ development and pull-request workflows.
 
 Examples in this repository remain intentionally small so each pull request is
 easy to review and its history stays clear.
+
+## Collaboration
+
+When a change is developed with another person or an AI coding assistant, its
+commit message can record that assistance with a `Co-authored-by` trailer.
