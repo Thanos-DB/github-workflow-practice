@@ -8,3 +8,8 @@ development and pull-request workflows.
 1. Create a focused branch from `main`.
 2. Commit one coherent change.
 3. Open, inspect, and merge a pull request.
+
+## Scope
+
+Examples in this repository remain intentionally small so each pull request is
+easy to review and its history stays clear.
